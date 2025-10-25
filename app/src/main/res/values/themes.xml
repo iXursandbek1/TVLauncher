@@ -1,0 +1,39 @@
+<resources>
+
+    <style name="Theme.TVLauncher" parent="@style/Theme.Leanback" >
+        <item name="colorPrimary">@color/brand_primary</item>
+        <item name="colorPrimaryDark">@color/brand_primary_dark</item>
+        <item name="colorAccent">@color/brand_accent</item>
+
+        <item name="android:windowBackground">@color/background_primary</item>
+        <item name="android:colorBackground">@color/background_primary</item>
+
+        <item name="android:textColorPrimary">@color/text_primary</item>
+        <item name="android:textColorSecondary">@color/text_secondary</item>
+
+        <item name="browseTitleTextStyle">@style/TitleTextStyle</item>
+        <item name="browseRowsMarginTop">@dimen/lb_browse_rows_margin_top</item>
+
+        <item name="searchOrbBrightColor">@color/brand_primary</item>
+        <item name="searchOrbColor">@color/brand_primary_dark</item>
+
+        <item name="imageCardViewStyle">@style/CustomImageCardView</item>
+    </style>
+
+    <style name="TitleTextStyle" parent="TextAppearance.Leanback.Title">
+        <item name="android:textSize">44sp</item>
+        <item name="android:textColor">@color/text_primary</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style>
+
+    <style name="CustomImageCardView" parent="Widget.Leanback.ImageCardView">
+        <item name="cardBackground">@color/card_info_background</item>
+        <item name="infoAreaBackground">@color/card_info_background</item>
+    </style>
+
+    <style name="HeaderTextStyle" parent="TextAppearance.Leanback.Header">
+        <item name="android:textSize">28sp</item>
+        <item name="android:textColor">@color/text_primary</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+</resources>

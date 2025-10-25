@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TV Launcher</string>
+
+    <string name="section_all_apps">All Applications</string>
+    <string name="section_recent">Recently Installed</string>
+    <string name="section_system">System Applications</string>
+    <string name="section_games">🎮 Games</string>
+    <string name="section_video">📺 Video Apps</string>
+    <string name="section_music">🎵 Music Apps</string>
+
+    <string name="launcher_title">📺 TV Launcher</string>
+    <string name="no_apps_found">No applications found</string>
+    <string name="loading">Loading applications…</string>
+
+    <string name="app_launch_failed">Failed to launch application</string>
+    <string name="press_home_to_exit">Press HOME to exit</string>
+
+    <string name="total_apps">Total apps: %1$d</string>
+    <string name="system_apps">System apps: %1$d</string>
+    <string name="user_apps">User apps: %1$d</string>
+</resources>

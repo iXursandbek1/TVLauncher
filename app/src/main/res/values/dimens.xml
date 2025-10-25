@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="card_width">313dp</dimen>
+    <dimen name="card_height">176dp</dimen>
+    <dimen name="default_margin">16dp</dimen>
+    <dimen name="small_margin">8dp</dimen>
+    <dimen name="large_margin">24dp</dimen>
+    <dimen name="title_text_size">44sp</dimen>
+    <dimen name="header_text_size">28sp</dimen>
+    <dimen name="card_title_size">16sp</dimen>
+    <dimen name="card_content_size">12sp</dimen>
+    <dimen name="card_elevation_normal">2dp</dimen>
+    <dimen name="card_elevation_focused">12dp</dimen>
+    <dimen name="lb_browse_rows_margin_top">120dp</dimen>
+</resources>
