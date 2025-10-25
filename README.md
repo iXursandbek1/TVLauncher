@@ -27,12 +27,4 @@ Designed to deliver a smooth, TV-optimized experience with efficient navigation 
 | **Language** | Kotlin |
 | **Architecture** | MVVM (Model–View–ViewModel) |
 
-### 🛠️ Key Libraries
-- **AndroidX Leanback** — TV UI components  
-- **AndroidX Lifecycle** — ViewModel & LiveData  
-- **Kotlin Coroutines** — Asynchronous operations  
-
----
-
-## 📁 Project Structure
 
